@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../vendor/laravel-frontend-presets/material-dashboard/src/material-stubs/resources/material/assets/scss/material-dashboard/mixins/mixins.scss",
+        "../vendor/laravel-frontend-presets/material-dashboard/src/material-stubs/resources/material/assets/scss/material-dashboard/mixins/_badge.scss",
+        "../vendor/laravel-frontend-presets/material-dashboard/src/material-stubs/resources/material/assets/scss/material-dashboard/mixins/_buttons.scss",
+        "../vendor/laravel-frontend-presets/material-dashboard/src/material-stubs/resources/material/assets/scss/material-dashboard/mixins/_hover.scss",
+        "../vendor/laravel-frontend-presets/material-dashboard/src/material-stubs/resources/material/assets/scss/material-dashboard/mixins/_colored-shadows.scss",
+        "../vendor/laravel-frontend-presets/material-dashboard/src/material-stubs/resources/material/assets/scss/material-dashboard/mixins/_social-buttons.scss",
+        "../vendor/laravel-frontend-presets/material-dashboard/src/material-stubs/resources/material/assets/scss/material-dashboard/mixins/_vendor.scss"
+    ],
+    "names": [],
+    "file": "mixins.css"
+}
